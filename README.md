@@ -15,4 +15,4 @@
 <a target="_blank" href="undefined@evilattitude345" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zigzag43&show_icons=true&locale=en" alt="zigzag43" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zigzag43&show_icons=true&locale=en&layout=compact" alt="zigzag43" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zigzag43" alt="zigzag43" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zigzag43&theme=algolia/></a></p>
